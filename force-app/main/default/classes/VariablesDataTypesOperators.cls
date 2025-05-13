@@ -36,7 +36,9 @@ public with sharing class VariablesDataTypesOperators {
             return null;
         }
 
-        return null; 
+        Integer value = a + b;
+
+        return value; 
     }
 
     /**
@@ -48,6 +50,7 @@ public with sharing class VariablesDataTypesOperators {
      * @return The difference between the two numbers.
      */
     public static Integer subtraction(Integer a, Integer b) {
+
         return null; // Replace null with the variable you used to store the result
     }
 
